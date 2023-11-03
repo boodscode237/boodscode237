@@ -64,6 +64,5 @@ Here are some ideas to get you started:
 ## Projects
 - [[List any significant projects]](https://github.com/boodscode237)
 
-### 🔭 I’m currently working on 
-Recommendatio
+### 🔭 I’m currently working on
 
