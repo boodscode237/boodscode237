@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Resume
+# ML Dev(NLP)
 
 ## Personal Information
 - **Name:** Brice Donald
