@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ## Work Experience
 - **Help Accountant**
-    - NGO: PNDP, [Location]
+    - NGO: PNDP, Bertoua
 
 - **Internship as Help Accountant**
     - Ministry of Finance, Cameroon
@@ -57,12 +57,13 @@ Here are some ideas to get you started:
 
 ## Achievements
 - Hackaton prize winner
+- OpenDoor Olympiad Prize winner
 
 ## Interests
 - Sport(Football), Music, Food
 
 ## Projects
-- [[List any significant projects]](https://github.com/boodscode237)
+- [List any significant projects](https://github.com/boodscode237)
 
 ### 🔭 I’m currently working on
 
