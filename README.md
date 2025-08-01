@@ -8,7 +8,7 @@
 ## Education
 - **Master's Degree in Artificial Intelligence**
     - ITMO University, St. Petersburg, Russia
-    - Expected Graduation: 2025
+    - Graduation: 2025
 
 - **Bachelor's Degree in Information Technology**
     - RSVPU, Ekaterinburg, Russia
