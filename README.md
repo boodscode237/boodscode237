@@ -50,6 +50,7 @@
 - **Languages:** English (Native), Russian (C2), French (C2)
 
 ## Achievements
+- Winner of Hackathon: Track MTS TRUE TECH 2025 МФТИ.  
 - Winner of ITMO Hackathon: Built a food allergy detection app integrating machine learning with frontend development.  
 - Contributor to an NLP-based salary prediction project for Rabotaru.  
 - Published papers on NLP and data augmentation.  
