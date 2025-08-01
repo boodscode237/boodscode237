@@ -58,8 +58,8 @@
 - **Hobbies:** Football, cooking, and exploring emerging AI technologies.  
 
 ## Projects
-- **[Salary Prediction Model](https://github.com/boodscode237):** An interpretable salary prediction model improving job search accuracy.  
-- **[Text Classification System](https://github.com/boodscode237):** Sentiment analysis leveraging advanced NLP techniques.  
+- **[Salary Prediction Model]([https://github.com/boodscode237](https://github.com/boodscode237/coming_soon_salary_prediction)):** An interpretable salary prediction model improving job search accuracy.  
+- **[Text Classification System]([https://github.com/boodscode237](https://github.com/boodscode237/Enhanced-Text-Classification-Using-DistilBERT-with-Low-Rank-Adaptation-A-Comparative-Study)):** Sentiment analysis leveraging advanced NLP techniques.  
 
 ### 🔭 I’m currently working on
 - Developing personalized recommendation systems using deep learning.  
