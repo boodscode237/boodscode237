@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Data Analyst | ML Developer (NLP) | AI Enthusiast
 
 ## Personal Information
