@@ -1,4 +1,4 @@
-# Data Analyst | ML Developer (NLP) | AI Enthusiast
+# ML Developer (NLP) | AI Enthusiast
 
 ## Personal Information
 - **Name:** Brice Donald Abodo
@@ -47,7 +47,7 @@
 - **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
 - **Big Data Tools:** PySpark, Hadoop, ClickHouse  
 - **Natural Language Processing:** BERT, GPT, NLTK, Spacy  
-- **Languages:** English (Native), Russian (C2), French (C2)
+- **Languages:** English (Native), Russian (C2), French (Native)
 
 ## Achievements
 - Winner of Hackathon: Track MTS TRUE TECH 2025 МФТИ.  
