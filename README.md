@@ -6,9 +6,14 @@
 - **LinkedIn:** [Brice Abodo](https://www.linkedin.com/in/brice-abodo/)
 
 ## Education
+- **PhD Student in Artificial Intelligence**
+    - ITMO University, St. Petersburg, Russia
+    - 2023-2025
+    - Topic: Advancing Cross-Lingual Transfer Learning for Low-Resource French Medical NLP
+      
 - **Master's Degree in Artificial Intelligence**
     - ITMO University, St. Petersburg, Russia
-    - Graduation: 2025
+    - 2023-2025
 
 - **Bachelor's Degree in Information Technology**
     - RSVPU, Ekaterinburg, Russia
