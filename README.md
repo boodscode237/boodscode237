@@ -8,7 +8,7 @@
 ## Education
 - **PhD Student in Artificial Intelligence**
     - ITMO University, St. Petersburg, Russia
-    - 2023-2025
+    - 2023-2028
     - Topic: Advancing Cross-Lingual Transfer Learning for Low-Resource French Medical NLP
       
 - **Master's Degree in Artificial Intelligence**
